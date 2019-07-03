@@ -8,3 +8,8 @@ npm install
 
 #### 运行项目
 npm run dev
+
+#### GIF图片演示
+<div>
+    <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/vue01-03.gif"></img>
+</div>
