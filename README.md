@@ -11,5 +11,5 @@ npm run dev
 
 #### GIF图片演示
 <div>
-    <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/vue01-03.gif"></img>
+    <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/vue01-03.gif" style="width:50px"></img>
 </div>
