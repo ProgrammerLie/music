@@ -10,6 +10,6 @@ npm install
 npm run dev
 
 #### GIF图片演示
-<div>
+<div align="left">
     <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/vue01-03.gif" width="200"></img>
 </div>
